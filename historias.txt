@@ -1,0 +1,6 @@
+historias.txt
+Esta es la historia de Robert Guzmán.
+
+Robert Guzmán nació en Uruguay.
+
+Hoy hablaremos de su historia.
