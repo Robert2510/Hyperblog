@@ -1,6 +1,8 @@
 historias.txt
 Esta es la historia de Robert Guzmán.
 
-Robert Guzmán nació en Uruguay.
+Robert Guzmán nació en Montevideo Uruguay.
+
+Su edad es de 49 años.
 
 Hoy hablaremos de su historia.
