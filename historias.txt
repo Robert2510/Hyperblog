@@ -1,11 +1,13 @@
 historias.txt
-Esta es la historia de Robert Guzman.
+Esta es la historia de Robert Guzman "El Chann"
 
 Robert Guzman  Vitancurt 
 nacio en Montevideo Uruguay.
 
-Su edad es de 49 años.
+Su edad es de 49 años
 
 Hoy hablaremos de su historia.
 
 tambien hablaremos de su facha, es alto y de pelo largo.
+
+tiene un hijo grone y maraca.
