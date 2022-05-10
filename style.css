@@ -10,7 +10,7 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: solid 2px rgb(86, 82, 82);
+    border: solid 3px rgb(136, 134, 134);
     margin: 0 auto;
 }
 
@@ -20,9 +20,10 @@ body{
 }
 
 #cabecera{
-    background-color: aqua;
-    box-shadow: 3px 6px 6px 6px rgb(171, 166, 166);
+    background-color: rgb(114, 193, 238);
+    box-shadow: 6px 6px 6px 6px rgb(171, 166, 166);
     font-size: 20px;
+     
 
 
 }
