@@ -24,7 +24,14 @@ body{
     background-color: rgb(114, 193, 238);
     box-shadow: 4px 4px 4px 4px rgb(171, 166, 166);
     font-size: 20px;
-     
 
+}
 
+#footer {
+    background-color: cadetblue;
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5em;
+    font-size: 20px;
+    
 }
