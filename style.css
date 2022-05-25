@@ -21,13 +21,17 @@ body{
 }
 
 #cabecera{
-    background-color: rgb(146, 238, 240);
-    box-shadow: 6px 6px 6px 6px rgb(146, 139, 139);
-    font-size: 30px;
+    background-color: rgb(114, 193, 238);
+    box-shadow: 4px 4px 4px 4px rgb(171, 166, 166);
+    font-size: 20px;
 
 }
 
-#cabecera #logo {
-    width: 20px;
-    vertical-align:auto;
+#footer {
+    background-color: cadetblue;
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5em;
+    font-size: 20px;
+    
 }
